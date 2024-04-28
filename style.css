@@ -16,7 +16,7 @@
   /* menu base styles */
   
   nav{
-    background: #333;
+    background: #0e630e;
   }
   
   nav ul{
@@ -33,7 +33,7 @@
   }
   
   nav a:hover{
-    background-color: #555;
+    background-color: #52be6a;
   }
   
   /* social menu base styles */
